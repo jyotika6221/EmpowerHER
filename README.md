@@ -46,6 +46,6 @@ To get started with this website, follow these steps:
 
 ## Project Information
 
-- **Video link**: [Insert Video Link]
-- **Website link**: [Insert Website Link]
-- **Project made by team Tech Duo**: Aarushi Singh, Anushka Gupta, Jyotika Jaichand, and Jhanvi Madan
+<!--- **Video link**: [Insert Video Link]
+- **Website link**: [Insert Website Link] 
+- **Project made by team Tech Duo**: Aarushi Singh, Anushka Gupta, Jyotika Jaichand, and Jhanvi Madan--!>
