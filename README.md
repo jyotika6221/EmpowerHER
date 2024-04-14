@@ -44,8 +44,7 @@ To get started with this website, follow these steps:
 
 3. **Open the Website**: Open the `index.html` file in your preferred web browser to start using this website.
 
-## Project Information
 
-<!--- **Video link**: [Insert Video Link]
+<!--- ## Project Information **Video link**: [Insert Video Link]
 - **Website link**: [Insert Website Link] 
 - **Project made by team Tech Duo**: Aarushi Singh, Anushka Gupta, Jyotika Jaichand, and Jhanvi Madan--!>
